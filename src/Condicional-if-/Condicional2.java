@@ -1,5 +1,3 @@
-package Sesion04;
-
 import java.util.Scanner;
 
 public class Condicional2 {

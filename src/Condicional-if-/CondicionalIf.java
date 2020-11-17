@@ -1,4 +1,3 @@
-package Sesion04;
 import java.util.Scanner;
 public class CondicionalIf {
     public static void main(String[] args) {
